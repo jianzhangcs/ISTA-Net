@@ -1,5 +1,7 @@
 # ISTA-Net
-##### ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing (Tensorflow Code)
+##### ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing, CVPR2018 (Tensorflow Code)
+
+## [[New PyTorch Version]](https://github.com/jianzhangcs/ISTA-Net-PyTorch)
 
 This repository is for ISTA-Net introduced in the following paper:
 
