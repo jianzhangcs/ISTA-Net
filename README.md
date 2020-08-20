@@ -5,7 +5,7 @@
 
 This repository is for ISTA-Net introduced in the following paper:
 
-[Jian Zhang](http://jianzhang.tech/) and [Bernard Ghanem](http://www.bernardghanem.com/), "ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing", CVPR 2018, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.pdf)  [[Supp]](https://jianzhang.tech/papers/Proof_ISTANet.pdf)
+[Jian Zhang](http://jianzhang.tech/) and [Bernard Ghanem](http://www.bernardghanem.com/), "ISTA-Net: Interpretable Optimization-Inspired Deep Network for Image Compressive Sensing", CVPR 2018, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_ISTA-Net_Interpretable_Optimization-Inspired_CVPR_2018_paper.pdf)  [[Supp]](https://jianzhang.tech/papers/CVPR_Supplementary.pdf)
 
 Training data ([Training_Data_Img91.mat](https://drive.google.com/open?id=1AoEcNA5-onnSqBcWZawNw7ZFrJ1fFR_C)) and other training models can be downloaded at [GoogleDrive](https://drive.google.com/open?id=1AoEcNA5-onnSqBcWZawNw7ZFrJ1fFR_C). 
 
